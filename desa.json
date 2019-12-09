@@ -1,0 +1,339 @@
+{
+  "desa": [
+    {
+      "ID": "1",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Mendawai"
+    },
+    {
+      "ID": "2",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Galinggang"
+    },
+    {
+      "ID": "3",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Tampelas"
+    },
+    {
+      "ID": "4",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Telaga"
+    },
+    {
+      "ID": "5",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Kampung Melayu"
+    },
+    {
+      "ID": "6",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Tumbang Bulan"
+    },
+    {
+      "ID": "7",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Babirah"
+    },
+    {
+      "ID": "8",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Hantipan"
+    },
+    {
+      "ID": "9",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Batuah"
+    },
+    {
+      "ID": "10",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Ganepo"
+    },
+    {
+      "ID": "11",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Jemaras"
+    },
+    {
+      "ID": "12",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Terantang"
+    },
+    {
+      "ID": "13",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Bamadu"
+    },
+    {
+      "ID": "14",
+      "desa": "Jawa Barat-Bandung-Bandung-Bandung"
+    },
+    {
+      "ID": "16",
+      "desa": "Jawa Barat-Bogor-Bogor-Bogor"
+    },
+    {
+      "ID": "17",
+      "desa": "Jakarta-Jakarta-Jakarta-Jakarta"
+    },
+    {
+      "ID": "20",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Mentaya Seberang"
+    },
+    {
+      "ID": "22",
+      "desa": "Jawa Timur-Surabaya-Surabaya-Surabaya"
+    },
+    {
+      "ID": "23",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Tewang Kampung"
+    },
+    {
+      "ID": "24",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Terantang Hilir"
+    },
+    {
+      "ID": "25",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Hanaut"
+    },
+    {
+      "ID": "26",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Perigi"
+    },
+    {
+      "ID": "27",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Parupuk"
+    },
+    {
+      "ID": "28",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Karuing"
+    },
+    {
+      "ID": "29",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Jahanjang"
+    },
+    {
+      "ID": "30",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Tumbang Runen"
+    },
+    {
+      "ID": "31",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Baun Bango"
+    },
+    {
+      "ID": "32",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Asem Kumbang"
+    },
+    {
+      "ID": "33",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Kampung Melayu (Kerokan lahan PT.RMU)"
+    },
+    {
+      "ID": "34",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Mendawai (Base Camp Mendawai)"
+    },
+    {
+      "ID": "35",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Mentawa Baru Ketapang-Sampit"
+    },
+    {
+      "ID": "36",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Bapinang Hulu"
+    },
+    {
+      "ID": "38",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Satiruk"
+    },
+    {
+      "ID": "39",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Serambut"
+    },
+    {
+      "ID": "40",
+      "desa": "Kalimantan Tengah-Palangkaraya-Palangkaraya-Palangkaraya"
+    },
+    {
+      "ID": "41",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Kecamatan Mendawai"
+    },
+    {
+      "ID": "42",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Pulau Hanaut"
+    },
+    {
+      "ID": "43",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Bapinang Hilir Laut"
+    },
+    {
+      "ID": "44",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Seragam Jaya"
+    },
+    {
+      "ID": "45",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Seranau"
+    },
+    {
+      "ID": "46",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Dusun Pipisan"
+    },
+    {
+      "ID": "47",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Dusun Belayar"
+    },
+    {
+      "ID": "48",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Rawa Sari"
+    },
+    {
+      "ID": "49",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Makarti Jaya"
+    },
+    {
+      "ID": "50",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Panyaguan"
+    },
+    {
+      "ID": "51",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Babaung"
+    },
+    {
+      "ID": "52",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Bapinang Hilir"
+    },
+    {
+      "ID": "53",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Pulau Hanaut-Bantian"
+    },
+    {
+      "ID": "54",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Mekartani"
+    },
+    {
+      "ID": "55",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Teluk Sebuluh"
+    },
+    {
+      "ID": "56",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Sampit-Kantor Sampit"
+    },
+    {
+      "ID": "57",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Teluk Sampit-Basawang"
+    },
+    {
+      "ID": "58",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Teluk Sampit-Ujung Pandaran"
+    },
+    {
+      "ID": "59",
+      "desa": "Jawa Tengah-Semarang-Semarang-Semarang"
+    },
+    {
+      "ID": "60",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Sampit-Sampit"
+    },
+    {
+      "ID": "61",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Cempaga-Patai"
+    },
+    {
+      "ID": "62",
+      "desa": "Kalimantan Tengah-Katingan-Katingan Kuala-Bangun Jaya"
+    },
+    {
+      "ID": "63",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Mentaya Hilir Selatan-Basirih Hilir"
+    },
+    {
+      "ID": "64",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Mentaya Hilir Selatan-Sei Ijum Raya"
+    },
+    {
+      "ID": "65",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Mentaya Hilir Selatan-Basirih hulu"
+    },
+    {
+      "ID": "66",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Mentaya Hilir Utara-Bagendang Hilir"
+    },
+    {
+      "ID": "67",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Mentaya Hulu-Tanjung Bantur"
+    },
+    {
+      "ID": "85",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Karuing - Punggu Alas"
+    },
+    {
+      "ID": "86",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Muara bulan"
+    },
+    {
+      "ID": "87",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Palangsian"
+    },
+    {
+      "ID": "88",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Parigi"
+    },
+    {
+      "ID": "89",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Mentawa Baru Ketapang-Pelangsian"
+    },
+    {
+      "ID": "90",
+      "desa": "Kalimantan Tengah-Katingan-Kamipang-Perupuk"
+    },
+    {
+      "ID": "91",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Mentawa Baru Ketapang-Sawahan"
+    },
+    {
+      "ID": "92",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Seranau-Terantang Hulu"
+    },
+    {
+      "ID": "93",
+      "desa": "Kalimantan Tengah-Katingan-Mendawai-Tumbang Samba"
+    },
+    {
+      "ID": "94",
+      "desa": "Yogyakarta-Sleman-Sleman-Bogem"
+    },
+    {
+      "ID": "95",
+      "desa": "Kalimantan Tengah-Kotawaringin Timur-Kota Besi-Kota Besi"
+    },
+    {
+      "ID": "96",
+      "desa": "Yogyakarta-Yogyakarta-Mantrijeron-Mantrijeron"
+    },
+    {
+      "ID": "98",
+      "desa": "Jawa Barat-Depok-Bojong Sari-Pondok Petir"
+    },
+    {
+      "ID": null,
+      "desa": null
+    },
+    {
+      "ID": null,
+      "desa": null
+    },
+    {
+      "ID": null,
+      "desa": null
+    },
+    {
+      "ID": null,
+      "desa": null
+    },
+    {
+      "ID": null,
+      "desa": null
+    },
+    {
+      "ID": null,
+      "desa": null
+    },
+    {
+      "ID": null,
+      "desa": null
+    },
+    {
+      "ID": null,
+      "desa": null
+    }
+  ]
+}
+
+
+

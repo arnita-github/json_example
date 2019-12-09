@@ -1,0 +1,227 @@
+{
+  "sub_kategori": [
+    {
+      "ID": "1",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Biodiversity"
+    },
+    {
+      "ID": "2",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Gambut"
+    },
+    {
+      "ID": "3",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Risalah Hutan"
+    },
+    {
+      "ID": "4",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Karbon Permukaan dan Gambut"
+    },
+    {
+      "ID": "5",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Pemetaan Kawasan"
+    },
+    {
+      "ID": "6",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Pemetaan Kebakaran"
+    },
+    {
+      "ID": "7",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Peat Depth Measurement"
+    },
+    {
+      "ID": "8",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Hidrologi"
+    },
+    {
+      "ID": "9",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Tata Batas"
+    },
+    {
+      "ID": "10",
+      "kategorikegiatan": "Survey \/ Patroli-Survey-Illegal Logging"
+    },
+    {
+      "ID": "11",
+      "kategorikegiatan": "Survey \/ Patroli-Patroli dan Pengamanan-Fire Prevention"
+    },
+    {
+      "ID": "12",
+      "kategorikegiatan": "Survey \/ Patroli-Patroli dan Pengamanan-Fire Suppression"
+    },
+    {
+      "ID": "13",
+      "kategorikegiatan": "Survey \/ Patroli-Monitoring-Biodiversity"
+    },
+    {
+      "ID": "14",
+      "kategorikegiatan": "Survey \/ Patroli-Monitoring-Risalah Hutan"
+    },
+    {
+      "ID": "15",
+      "kategorikegiatan": "Survey \/ Patroli-Monitoring-Karbon Permukaan dan Gambut"
+    },
+    {
+      "ID": "16",
+      "kategorikegiatan": "Survey \/ Patroli-Monitoring-Peath Dept Measurement"
+    },
+    {
+      "ID": "17",
+      "kategorikegiatan": "Survey \/ Patroli-Monitoring-Hidrologi"
+    },
+    {
+      "ID": "18",
+      "kategorikegiatan": "Survey \/ Patroli-Monitoring-Illegal Logging"
+    },
+    {
+      "ID": "19",
+      "kategorikegiatan": "Survey \/ Patroli-Rewetting-Rewetting"
+    },
+    {
+      "ID": "20",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Awareness-Awareness"
+    },
+    {
+      "ID": "21",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Monitoring dan Evaluasi-Evaluasi"
+    },
+    {
+      "ID": "22",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Focus Group Discussion (FGD)-Focus Group Discussion (FGD)"
+    },
+    {
+      "ID": "23",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Pelatihan-Pelatihan"
+    },
+    {
+      "ID": "25",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Sosialisasi-Sosialisasi"
+    },
+    {
+      "ID": "26",
+      "kategorikegiatan": "Penelitian dan Pengembangan-Perencanaan-Diskusi"
+    },
+    {
+      "ID": "27",
+      "kategorikegiatan": "Penelitian dan Pengembangan-Perencanaan-Penelitian"
+    },
+    {
+      "ID": "28",
+      "kategorikegiatan": "Penelitian dan Pengembangan-Implementasi-Uji coba"
+    },
+    {
+      "ID": "29",
+      "kategorikegiatan": "Penelitian dan Pengembangan-Implementasi-Hasil kegiatan"
+    },
+    {
+      "ID": "30",
+      "kategorikegiatan": "Penelitian dan Pengembangan-Monitoring dan Evaluasi-Monitoring"
+    },
+    {
+      "ID": "31",
+      "kategorikegiatan": "Penelitian dan Pengembangan-Monitoring dan Evaluasi-Evaluasi"
+    },
+    {
+      "ID": "32",
+      "kategorikegiatan": null
+    },
+    {
+      "ID": "33",
+      "kategorikegiatan": "Survey \/ Patroli-Monitoring-Community Development"
+    },
+    {
+      "ID": "34",
+      "kategorikegiatan": "Lainnya-Lainnya-Lainnya"
+    },
+    {
+      "ID": "37",
+      "kategorikegiatan": "Pengembangan Bisnis-Pembuatan proposal dan analisa usaha-Pembuatan proposal"
+    },
+    {
+      "ID": "38",
+      "kategorikegiatan": "Pengembangan Bisnis-Pembuatan proposal dan analisa usaha-Membuat analisa usaha dan rencana bisnis"
+    },
+    {
+      "ID": "41",
+      "kategorikegiatan": "Pengembangan Bisnis-Studi banding-Studi banding"
+    },
+    {
+      "ID": "42",
+      "kategorikegiatan": "Pengembangan Bisnis-Uji coba-Uji coba dan perbaikan mutu produk"
+    },
+    {
+      "ID": "43",
+      "kategorikegiatan": "Pengembangan Bisnis-Uji coba-Trial shipment (uji coba pengiriman produk)"
+    },
+    {
+      "ID": "44",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Konsultasi-Konsultasi"
+    },
+    {
+      "ID": "45",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Koordinasi-Koordinasi"
+    },
+    {
+      "ID": "46",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Perencanaan-Perencanaan"
+    },
+    {
+      "ID": "47",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Lokakarya\/seminar-Lokakarya\/seminar"
+    },
+    {
+      "ID": "48",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Monitoring dan Evaluasi-Monitoring"
+    },
+    {
+      "ID": "49",
+      "kategorikegiatan": "Teknologi Informasi-Hardware, software, dan Jaringan-Pembangunan dan pengembangan"
+    },
+    {
+      "ID": "50",
+      "kategorikegiatan": "Teknologi Informasi-Hardware, software, dan Jaringan-Pemeliharaan dan troubleshooting"
+    },
+    {
+      "ID": "52",
+      "kategorikegiatan": "Teknologi Informasi-Sistem informasi-Pembangunan dan pengembangan"
+    },
+    {
+      "ID": "53",
+      "kategorikegiatan": "Teknologi Informasi-Sistem informasi-Pemeliharaan"
+    },
+    {
+      "ID": "55",
+      "kategorikegiatan": "Teknologi Informasi-Manajemen Data-Entry Data"
+    },
+    {
+      "ID": "56",
+      "kategorikegiatan": "Teknologi Informasi-Manajemen Data-Perbaikan dan pemeliharaan data"
+    },
+    {
+      "ID": "57",
+      "kategorikegiatan": "Teknologi Informasi-Manajemen Data-Perumusan Variabel Data"
+    },
+    {
+      "ID": "58",
+      "kategorikegiatan": "Teknologi Informasi-Manajemen Data-Pengumpulan dan Pengarsipan Data"
+    },
+    {
+      "ID": "59",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Komunikasi bisnis-Mitra\/klien\/customer\/investor"
+    },
+    {
+      "ID": "60",
+      "kategorikegiatan": "Meeting \/ Training \/ Komunikasi bisnis-Komunikasi bisnis-Masyarakat\/produser"
+    },
+    {
+      "ID": "61",
+      "kategorikegiatan": "Penelitian dan Pengembangan-Agro-ekologi-Agro-ekologi"
+    },
+    {
+      "ID": "62",
+      "kategorikegiatan": "Penelitian dan Pengembangan-Suhu, iklim, dan cuaca-Suhu, iklim, dan cuaca"
+    }
+  ]
+}
+
+
+
